@@ -1,3 +1,4 @@
+```sql
 create table project
 (
 fname varchar(30) not null,
@@ -16,3 +17,4 @@ cname varchar(30),
 qualification varchar(30),
 tarea varchar(30)
 );
+```
